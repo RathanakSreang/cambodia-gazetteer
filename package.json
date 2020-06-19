@@ -1,6 +1,6 @@
 {
   "name": "cambodia-gazetteer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cambodia Provinces, Districts, Communes, Villages dataset.",
   "main": "index.js",
   "scripts": {
