@@ -1,0 +1,30 @@
+{
+  "name": "cambodia-gazetteer",
+  "version": "1.0.0",
+  "description": "Cambodia Provinces, Districts, Communes, Villages dataset.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RathanakSreang/cambodia-gazetteer.git"
+  },
+  "keywords": [
+    "Cambodia",
+    "Provinces",
+    "Districts",
+    "Communes",
+    "Villages."
+  ],
+  "author": "Sreang Rathanak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RathanakSreang/cambodia-gazetteer/issues"
+  },
+  "homepage": "https://github.com/RathanakSreang/cambodia-gazetteer#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
