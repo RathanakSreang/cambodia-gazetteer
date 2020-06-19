@@ -3,7 +3,7 @@ var banteayMeanchey = cambodia_gazetterr[0];
 
 test('Provinces', () => {
   expect(banteayMeanchey["khmer"]).toBe("បន្ទាយមានជ័យ");
-  expect(banteayMeanchey["latin"]).toBe("Banteay Meanchey1");
+  expect(banteayMeanchey["latin"]).toBe("Banteay Meanchey");
 })
 
 var districts = banteayMeanchey.districts;
